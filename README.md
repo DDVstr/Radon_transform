@@ -16,6 +16,12 @@
 
 - Подается на вход изображение в отттенках серого. В программе также реализован метод crop для исключения неквадратных изображений
 
+### Sinogram
+![alt text](source/sinogram_new.png)
+
+### Filtered backprojection
+![alt text](source/FBP.png)
+
 ### Ramp filter result
 ![alt text](source/Figure1.png)
 
